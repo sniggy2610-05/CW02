@@ -3,7 +3,7 @@ import '../models/movie.dart';
 const List<Movie> sampleMovies = [
   Movie(
     title: 'Inception',
-    posterPath: 'assets/images/inception.jpg',
+    posterPath: 'assets/images/inception.png',
     year: 2010,
     genre: 'Sci-Fi Thriller',
     rating: 8.8,
@@ -24,7 +24,7 @@ const List<Movie> sampleMovies = [
   ),
   Movie(
     title: 'The Matrix',
-    posterPath: 'assets/images/matrix.jpg',
+    posterPath: 'assets/images/the_matrix.png',
     year: 1999,
     genre: 'Sci-Fi Action',
     rating: 8.7,
@@ -43,7 +43,7 @@ const List<Movie> sampleMovies = [
   ),
   Movie(
     title: 'Interstellar',
-    posterPath: 'assets/images/interstellar.jpg',
+    posterPath: 'assets/images/interstellar.png',
     year: 2014,
     genre: 'Sci-Fi Drama',
     rating: 8.7,
@@ -63,7 +63,7 @@ const List<Movie> sampleMovies = [
   ),
   Movie(
     title: 'The Dark Knight',
-    posterPath: 'assets/images/dark_knight.jpg',
+    posterPath: 'assets/images/The_dark_knight.png',
     year: 2008,
     genre: 'Superhero Crime',
     rating: 9.0,
@@ -83,7 +83,7 @@ const List<Movie> sampleMovies = [
   ),
   Movie(
     title: 'Parasite',
-    posterPath: 'assets/images/parasite.jpg',
+    posterPath: 'assets/images/Parasite.png',
     year: 2019,
     genre: 'Thriller Drama',
     rating: 8.5,
